@@ -1,0 +1,4 @@
+Wed Nov  5 23:10:12 2025
+ | ENCRYPTION | Input: input.txt | Output: encrypted.txt
+Wed Nov  5 23:11:56 2025
+ | DECRYPTION | Input: encrypted.txt | Output: descript.txt
